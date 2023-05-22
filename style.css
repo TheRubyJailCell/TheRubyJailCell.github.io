@@ -1,5 +1,5 @@
 h1 {
-	color: #e70000;
+	color: #C72828;
 }
 h2 {
 	color: white;
@@ -10,7 +10,7 @@ h3 {
 
 body {
 	text-align: center;
-	background: #141010;
+	background: #120F0F;
 	font-family: 'Bai Jamjuree', sans-serif;
 	color: white;
 	padding: 40px 100px;
@@ -19,30 +19,48 @@ body {
 .avatar {
 	width: 300px;
 	border: 5px	solid #232931;
-	border-radius: 10px;
+	border-radius: 60px;
 	box-shadow: 2px 2px 10px #232931;
 }
 
-.bio {
+.announcements {
 	font-size: 24px;
+}
+
+.bio {
+	font-size: 18px;
+}
+
+.aboutme {
+	font-size: 12px;
 }
 
 .network {
 	font-size: 24px;
-	color: #cb0101;
+	color: #C72828;
 	text-decoration: none;
 	text-align: center;
 }
 .network:hover {
-	color: #c62727;
+	color: #D63324;
 	text-decoration: none;
 }
 
 .mail {
-	color: #cb0101;
+	color: #C72828;
 	text-decoration: none;
 }
 .mail:hover {
-	color: #c62727;
+	color: #D63324;
+	text-decoration: none;
+}
+
+.link {
+	color: #C72828;
+	text-decoration: none;
+}
+
+.link:hover {
+	color: #D63324;
 	text-decoration: none;
 }
